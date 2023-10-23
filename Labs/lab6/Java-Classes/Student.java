@@ -26,7 +26,7 @@ public class Student {
         this.group = group;
     }
 
-    // Геттеры и сеттеры для полей класса
+
 
     public int getId() {
         return id;

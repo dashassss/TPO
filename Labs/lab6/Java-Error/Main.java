@@ -190,7 +190,7 @@ class University {
 public class Main {
     public static void main(String[] args) {
         try {
-            // Создаем объекты университета, факультетов, групп и студентов
+
             University university = new University("My University");
 
             Faculty faculty1 = new Faculty("Faculty of Science");
@@ -202,22 +202,22 @@ public class Main {
             Student student1 = new Student("John");
             Student student2 = new Student("Alice");
 
-            // Добавляем оценки студентам
+
             student1.addGrade(new Grade(8));
             student1.addGrade(new Grade(7));
             student1.addGrade(new Grade(5));
             student2.addGrade(new Grade(9));
             student2.addGrade(new Grade(10));
 
-            // Добавляем студентов в группы
+
             group1.addStudent(student1);
             group2.addStudent(student2);
 
-            // Добавляем группы на факультеты
+
             faculty1.addGroup(group1);
             faculty2.addGroup(group2);
 
-            // Добавляем факультеты в университет
+
             university.addFaculty(faculty1);
             university.addFaculty(faculty2);
 
