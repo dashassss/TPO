@@ -3,9 +3,9 @@ import java.util.concurrent.Executors;
 
 public class Main {
     public static void main(String[] args) {
-        ParkingLot parkingLot = new ParkingLot(3); // Здесь 3 - количество мест на стоянке
+        ParkingLot parkingLot = new ParkingLot(3);
 
-        ExecutorService executorService = Executors.newFixedThreadPool(5); // 5 потоков для 5 автомобилей
+        ExecutorService executorService = Executors.newFixedThreadPool(5);
 
         for (int i = 1; i <= 5; i++) {
             Car car = new Car("Car " + i, parkingLot);

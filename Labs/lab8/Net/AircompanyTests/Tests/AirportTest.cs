@@ -37,7 +37,7 @@ namespace AircompanyTests.Tests
             bool hasMilitaryTransportPlane = false;
             foreach (MilitaryPlane militaryPlane in transportMilitaryPlanes)
             {
-                if ((militaryPlane.PlaneTypeIs() == MilitaryType.TRANSPORT))
+                if ((militaryPlane.PlaneType() == MilitaryType.TRANSPORT))
                 {
                     hasMilitaryTransportPlane = true;
                 }
@@ -64,7 +64,7 @@ namespace AircompanyTests.Tests
             {
                 Plane currentPlane = planesSortedByMaxLoadCapacity[i];
                 Plane nextPlane = planesSortedByMaxLoadCapacity[i + 1];
-                if (currentPlane.MAXLoadCapacity() > nextPlane.MAXLoadCapacity())
+                if (currentPlane.MaxLoadCapacity() > nextPlane.MaxLoadCapacity())
                 {
                     nextPlaneMaxLoadCapacityIsHigherThanCurrent = false;
                 }

@@ -1,0 +1,15 @@
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\bin\Debug\net7.0\lab77.exe
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\bin\Debug\net7.0\lab77.deps.json
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\bin\Debug\net7.0\lab77.runtimeconfig.json
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\bin\Debug\net7.0\lab77.dll
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\bin\Debug\net7.0\lab77.pdb
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\lab77.csproj.AssemblyReference.cache
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\lab77.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\lab77.AssemblyInfoInputs.cache
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\lab77.AssemblyInfo.cs
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\lab77.csproj.CoreCompileInputs.cache
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\lab77.dll
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\refint\lab77.dll
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\lab77.pdb
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\lab77.genruntimeconfig.cache
+D:\3_1course\TPO\Labs\lab7\lab77\lab77\obj\Debug\net7.0\ref\lab77.dll

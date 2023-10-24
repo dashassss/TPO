@@ -26,8 +26,6 @@ public class Student {
         this.group = group;
     }
 
-
-
     public int getId() {
         return id;
     }
