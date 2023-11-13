@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="selenium-api-3.0.0-beta3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/selenium-api-3.0.0-beta3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/selenium-chrome-driver-2.47.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
