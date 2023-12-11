@@ -1,0 +1,604 @@
+04.12.2023 23:40:47 [INFO] WebDriver initialized.
+04.12.2023 23:40:51 [INFO] Main page opened.
+04.12.2023 23:40:51 [INFO] Searching for Смартфон Apple iPhone 12 eSIM+SIM 64 ГБ, белый
+04.12.2023 23:41:43 [INFO] WebDriver initialized.
+04.12.2023 23:41:45 [INFO] Main page opened.
+04.12.2023 23:41:45 [INFO] Searching for Смартфон Apple iPhone 12 eSIM+SIM 64 ГБ, белый
+04.12.2023 23:41:53 [INFO] WebDriver initialized.
+04.12.2023 23:41:57 [INFO] Main page opened.
+04.12.2023 23:41:57 [INFO] Searching for Смартфон Apple iPhone 12 eSIM+SIM 64 ГБ, белый
+04.12.2023 23:43:19 [INFO] WebDriver initialized.
+04.12.2023 23:45:05 [INFO] WebDriver initialized.
+04.12.2023 23:45:17 [INFO] Main page opened.
+04.12.2023 23:45:26 [INFO] Searching for Смартфон Apple iPhone 12 eSIM+SIM 64 ГБ, белый
+04.12.2023 23:46:43 [INFO] WebDriver initialized.
+04.12.2023 23:46:44 [INFO] Main page opened.
+04.12.2023 23:46:55 [INFO] Searching for Смартфон Apple iPhone 12 eSIM+SIM 64 ГБ, белый
+04.12.2023 23:49:23 [INFO] WebDriver initialized.
+04.12.2023 23:49:30 [INFO] Main page opened.
+04.12.2023 23:49:33 [INFO] Searching for Смартфон Apple iPhone 12 eSIM+SIM 64 ГБ, белый
+05.12.2023 0:49:48 [INFO] WebDriver initialized.
+05.12.2023 0:50:16 [INFO] Main page opened.
+05.12.2023 0:50:16 [INFO] Searching for сумка
+05.12.2023 0:53:59 [INFO] WebDriver initialized.
+05.12.2023 0:54:05 [INFO] Main page opened.
+05.12.2023 0:54:05 [INFO] Searching for сумка
+05.12.2023 0:54:09 [INFO] Search completed.
+05.12.2023 0:54:30 [INFO] WebDriver initialized.
+05.12.2023 0:54:32 [INFO] Main page opened.
+05.12.2023 0:54:32 [INFO] Searching for сумка
+05.12.2023 0:54:48 [INFO] WebDriver initialized.
+05.12.2023 0:55:44 [INFO] WebDriver initialized.
+05.12.2023 0:55:44 [INFO] Main page opened.
+05.12.2023 0:55:45 [INFO] Searching for сумка
+05.12.2023 0:57:19 [INFO] WebDriver initialized.
+05.12.2023 0:57:20 [INFO] Main page opened.
+05.12.2023 0:57:20 [INFO] Searching for сумка
+05.12.2023 0:57:53 [INFO] Search completed.
+05.12.2023 0:58:56 [INFO] WebDriver initialized.
+05.12.2023 0:58:56 [INFO] Main page opened.
+05.12.2023 0:58:56 [INFO] Searching for сумка
+05.12.2023 0:59:15 [INFO] Search completed.
+05.12.2023 0:59:57 [INFO] WebDriver initialized.
+05.12.2023 0:59:58 [INFO] Main page opened.
+05.12.2023 0:59:58 [INFO] Searching for сумка
+05.12.2023 1:00:09 [INFO] Search completed.
+05.12.2023 1:00:40 [INFO] WebDriver initialized.
+05.12.2023 11:24:30 [INFO] WebDriver initialized.
+05.12.2023 11:25:08 [INFO] WebDriver initialized.
+05.12.2023 11:25:16 [INFO] Main page opened.
+05.12.2023 11:25:16 [INFO] Searching for сумка
+05.12.2023 11:25:26 [INFO] Search completed.
+05.12.2023 11:25:50 [INFO] WebDriver initialized.
+05.12.2023 11:25:54 [INFO] Main page opened.
+05.12.2023 11:25:54 [INFO] Searching for сумка
+05.12.2023 11:26:00 [INFO] WebDriver initialized.
+05.12.2023 11:26:04 [INFO] Main page opened.
+05.12.2023 11:26:04 [INFO] Searching for сумка
+05.12.2023 11:26:31 [INFO] WebDriver initialized.
+05.12.2023 11:26:38 [INFO] Main page opened.
+05.12.2023 11:26:38 [INFO] Searching for сумка
+05.12.2023 11:26:58 [INFO] WebDriver initialized.
+05.12.2023 11:27:06 [INFO] Main page opened.
+05.12.2023 11:27:06 [INFO] Searching for сумка
+05.12.2023 11:27:37 [INFO] WebDriver initialized.
+05.12.2023 11:27:45 [INFO] Main page opened.
+05.12.2023 11:27:45 [INFO] Searching for сумка
+05.12.2023 11:28:02 [INFO] WebDriver initialized.
+05.12.2023 11:28:11 [INFO] Main page opened.
+05.12.2023 11:28:11 [INFO] Searching for сумка
+05.12.2023 11:32:58 [INFO] WebDriver initialized.
+05.12.2023 11:33:25 [INFO] Main page opened.
+05.12.2023 11:33:25 [INFO] Searching for сумка
+05.12.2023 11:33:27 [INFO] Search completed.
+10.12.2023 1:11:48 [INFO] WebDriver initialized.
+10.12.2023 1:11:53 [INFO] Main page opened.
+10.12.2023 1:11:53 [INFO] Searching for сумка
+10.12.2023 1:11:59 [INFO] Search completed.
+10.12.2023 1:14:22 [INFO] WebDriver initialized.
+10.12.2023 1:14:27 [INFO] Main page opened.
+10.12.2023 1:14:27 [INFO] Searching for сумка
+10.12.2023 1:14:32 [INFO] Search completed.
+10.12.2023 1:17:16 [INFO] WebDriver initialized.
+10.12.2023 1:17:17 [INFO] Main page opened.
+10.12.2023 1:17:17 [INFO] Searching for сумка
+10.12.2023 1:17:26 [INFO] Search completed.
+10.12.2023 1:19:28 [INFO] WebDriver initialized.
+10.12.2023 1:19:32 [INFO] Main page opened.
+10.12.2023 1:19:32 [INFO] Searching for сумка
+10.12.2023 1:19:38 [INFO] Search completed.
+10.12.2023 1:22:39 [INFO] WebDriver initialized.
+10.12.2023 1:22:46 [INFO] Main page opened.
+10.12.2023 1:22:46 [INFO] Searching for сумка
+10.12.2023 1:22:52 [INFO] Search completed.
+10.12.2023 1:25:19 [INFO] WebDriver initialized.
+10.12.2023 1:25:25 [INFO] Main page opened.
+10.12.2023 1:25:25 [INFO] Searching for сумка
+10.12.2023 1:25:31 [INFO] Search completed.
+10.12.2023 1:27:06 [INFO] WebDriver initialized.
+10.12.2023 1:27:10 [INFO] Main page opened.
+10.12.2023 1:27:10 [INFO] Searching for сумка
+10.12.2023 1:27:16 [INFO] Search completed.
+10.12.2023 1:34:13 [INFO] WebDriver initialized.
+10.12.2023 1:34:20 [INFO] Main page opened.
+10.12.2023 1:34:20 [INFO] Searching for сумка
+10.12.2023 1:34:26 [INFO] Search completed.
+10.12.2023 1:40:55 [INFO] WebDriver initialized.
+10.12.2023 1:41:00 [INFO] Main page opened.
+10.12.2023 1:41:00 [INFO] Searching for сумка
+10.12.2023 1:41:50 [INFO] WebDriver initialized.
+10.12.2023 1:42:33 [INFO] WebDriver initialized.
+10.12.2023 1:42:34 [INFO] Main page opened.
+10.12.2023 1:42:34 [INFO] Searching for сумка
+10.12.2023 1:42:45 [INFO] Search completed.
+10.12.2023 12:32:55 [INFO] WebDriver initialized.
+10.12.2023 12:33:02 [INFO] Main page opened.
+10.12.2023 12:33:02 [INFO] Searching for сумка
+10.12.2023 12:33:06 [INFO] Search completed.
+10.12.2023 12:40:31 [INFO] WebDriver initialized.
+10.12.2023 12:40:38 [INFO] Main page opened.
+10.12.2023 12:40:38 [INFO] Searching for сумка
+10.12.2023 12:40:45 [INFO] Search completed.
+10.12.2023 12:41:37 [INFO] WebDriver initialized.
+10.12.2023 12:41:47 [INFO] Main page opened.
+10.12.2023 12:41:47 [INFO] Searching for сумка
+10.12.2023 12:41:51 [INFO] Search completed.
+10.12.2023 12:43:53 [INFO] WebDriver initialized.
+10.12.2023 12:43:59 [INFO] Main page opened.
+10.12.2023 12:43:59 [INFO] Searching for сумка
+10.12.2023 12:44:06 [INFO] Search completed.
+10.12.2023 12:56:13 [INFO] WebDriver initialized.
+10.12.2023 12:56:19 [INFO] Main page opened.
+10.12.2023 12:56:19 [INFO] Searching for дракон из помидор
+10.12.2023 12:56:44 [INFO] Search completed.
+10.12.2023 13:50:59 [INFO] WebDriver initialized.
+10.12.2023 13:51:07 [INFO] Main page opened.
+10.12.2023 13:51:07 [INFO] Searching for сумка
+10.12.2023 13:52:38 [INFO] WebDriver initialized.
+10.12.2023 13:52:43 [INFO] Main page opened.
+10.12.2023 13:52:43 [INFO] Searching for сумка
+10.12.2023 13:52:52 [INFO] Search completed.
+10.12.2023 13:52:53 [INFO] Color selected.
+10.12.2023 13:55:04 [INFO] WebDriver initialized.
+10.12.2023 13:55:06 [INFO] Main page opened.
+10.12.2023 13:55:06 [INFO] Searching for сумка
+10.12.2023 13:57:09 [INFO] WebDriver initialized.
+10.12.2023 13:57:15 [INFO] Main page opened.
+10.12.2023 13:57:15 [INFO] Searching for дракон из помидор
+10.12.2023 13:57:21 [INFO] Search completed.
+10.12.2023 13:57:22 [INFO] Product found.
+10.12.2023 13:58:37 [INFO] WebDriver initialized.
+10.12.2023 13:58:44 [INFO] Main page opened.
+10.12.2023 13:58:44 [INFO] Searching for сумка
+10.12.2023 13:58:51 [INFO] Search completed.
+10.12.2023 14:00:53 [INFO] WebDriver initialized.
+10.12.2023 14:01:01 [INFO] Main page opened.
+10.12.2023 14:01:01 [INFO] Searching for сумка
+10.12.2023 14:01:08 [INFO] Search completed.
+10.12.2023 14:01:08 [INFO] Color selected.
+10.12.2023 14:01:19 [INFO] Product found.
+10.12.2023 14:02:00 [INFO] WebDriver initialized.
+10.12.2023 14:02:01 [INFO] Main page opened.
+10.12.2023 14:02:01 [INFO] Searching for сумка
+10.12.2023 14:02:14 [INFO] Search completed.
+10.12.2023 14:02:14 [INFO] Color selected.
+10.12.2023 14:02:14 [INFO] Product found.
+10.12.2023 14:02:32 [INFO] WebDriver initialized.
+10.12.2023 14:02:38 [INFO] Main page opened.
+10.12.2023 14:02:38 [INFO] Searching for сумка
+10.12.2023 14:02:43 [INFO] Search completed.
+10.12.2023 14:02:45 [INFO] Color selected.
+10.12.2023 14:02:45 [INFO] Product found.
+10.12.2023 14:03:54 [INFO] WebDriver initialized.
+10.12.2023 14:04:00 [INFO] Main page opened.
+10.12.2023 14:04:00 [INFO] Searching for дракон из помидор
+10.12.2023 14:04:05 [INFO] Search completed.
+10.12.2023 14:04:05 [INFO] Product found.
+10.12.2023 14:10:47 [INFO] WebDriver initialized.
+10.12.2023 14:10:54 [INFO] Main page opened.
+10.12.2023 14:10:55 [INFO] Language update.
+10.12.2023 14:10:55 [INFO] Searching for наушники
+10.12.2023 14:11:43 [INFO] WebDriver initialized.
+10.12.2023 14:11:50 [INFO] Main page opened.
+10.12.2023 14:11:50 [INFO] Searching for наушники
+10.12.2023 14:11:56 [INFO] Search completed.
+10.12.2023 14:13:19 [INFO] WebDriver initialized.
+10.12.2023 14:13:22 [INFO] Main page opened.
+10.12.2023 14:13:43 [INFO] WebDriver initialized.
+10.12.2023 14:13:50 [INFO] Main page opened.
+10.12.2023 14:13:51 [INFO] Language update.
+10.12.2023 14:13:57 [INFO] Searching for earphones
+10.12.2023 14:14:13 [INFO] Search completed.
+10.12.2023 14:21:35 [INFO] WebDriver initialized.
+10.12.2023 14:21:42 [INFO] Main page opened.
+10.12.2023 14:21:45 [INFO] Language update.
+10.12.2023 14:21:45 [INFO] Searching for earphones
+10.12.2023 14:21:52 [INFO] Search completed.
+10.12.2023 14:22:49 [INFO] WebDriver initialized.
+10.12.2023 14:22:56 [INFO] Main page opened.
+10.12.2023 14:22:57 [INFO] Language update.
+10.12.2023 14:22:57 [INFO] Searching for earphones
+10.12.2023 14:23:42 [INFO] WebDriver initialized.
+10.12.2023 14:23:49 [INFO] Main page opened.
+10.12.2023 14:23:49 [INFO] Language update.
+10.12.2023 14:23:49 [INFO] Searching for earphones
+10.12.2023 14:25:55 [INFO] WebDriver initialized.
+10.12.2023 14:26:00 [INFO] Main page opened.
+10.12.2023 14:26:02 [INFO] Language update.
+10.12.2023 14:26:02 [INFO] Searching for earphones
+10.12.2023 14:27:36 [INFO] WebDriver initialized.
+10.12.2023 14:27:37 [INFO] Main page opened.
+10.12.2023 14:27:55 [INFO] Language update.
+10.12.2023 14:27:55 [INFO] Searching for earphones
+10.12.2023 14:28:30 [INFO] Search completed.
+10.12.2023 14:31:02 [INFO] WebDriver initialized.
+10.12.2023 14:31:08 [INFO] Main page opened.
+10.12.2023 14:31:09 [INFO] Language update.
+10.12.2023 14:31:09 [INFO] Searching for earphones
+10.12.2023 14:32:52 [INFO] WebDriver initialized.
+10.12.2023 14:32:59 [INFO] Main page opened.
+10.12.2023 14:33:00 [INFO] Language update.
+10.12.2023 14:33:00 [INFO] Searching for earphones
+10.12.2023 14:33:15 [INFO] Search completed.
+10.12.2023 14:33:22 [INFO] Price selected.
+10.12.2023 14:33:26 [INFO] Product found.
+10.12.2023 14:34:39 [INFO] WebDriver initialized.
+10.12.2023 14:34:40 [INFO] Main page opened.
+10.12.2023 14:34:48 [INFO] Language update.
+10.12.2023 14:34:48 [INFO] Searching for earphones
+10.12.2023 14:34:56 [INFO] Search completed.
+10.12.2023 14:35:42 [INFO] WebDriver initialized.
+10.12.2023 14:35:49 [INFO] Main page opened.
+10.12.2023 14:35:49 [INFO] Language update.
+10.12.2023 14:35:49 [INFO] Searching for earphones
+10.12.2023 14:36:26 [INFO] WebDriver initialized.
+10.12.2023 14:36:31 [INFO] Main page opened.
+10.12.2023 14:36:33 [INFO] Language update.
+10.12.2023 14:36:33 [INFO] Searching for earphones
+10.12.2023 14:37:31 [INFO] WebDriver initialized.
+10.12.2023 14:37:38 [INFO] Main page opened.
+10.12.2023 14:37:41 [INFO] Language update.
+10.12.2023 14:37:44 [INFO] Searching for earphones
+10.12.2023 14:37:50 [INFO] Search completed.
+10.12.2023 14:39:21 [INFO] WebDriver initialized.
+10.12.2023 14:39:30 [INFO] Main page opened.
+10.12.2023 14:39:30 [INFO] Language update.
+10.12.2023 14:39:33 [INFO] Searching for earphones
+10.12.2023 14:39:39 [INFO] Search completed.
+10.12.2023 14:40:56 [INFO] WebDriver initialized.
+10.12.2023 14:41:44 [INFO] WebDriver initialized.
+10.12.2023 14:41:46 [INFO] Main page opened.
+10.12.2023 14:42:06 [INFO] WebDriver initialized.
+10.12.2023 14:42:06 [INFO] Main page opened.
+10.12.2023 14:42:44 [INFO] WebDriver initialized.
+10.12.2023 14:42:45 [INFO] Main page opened.
+10.12.2023 14:43:07 [INFO] Language update.
+10.12.2023 14:45:33 [INFO] Searching for earphones
+10.12.2023 14:45:39 [INFO] Search completed.
+10.12.2023 14:45:50 [INFO] Price selected.
+10.12.2023 14:46:24 [INFO] Product found.
+10.12.2023 14:46:57 [INFO] WebDriver initialized.
+10.12.2023 14:46:58 [INFO] Main page opened.
+10.12.2023 14:47:04 [INFO] Language update.
+10.12.2023 14:47:06 [INFO] Searching for earphones
+10.12.2023 14:47:12 [INFO] Search completed.
+10.12.2023 14:48:22 [INFO] WebDriver initialized.
+10.12.2023 14:48:44 [INFO] Main page opened.
+10.12.2023 14:48:44 [INFO] Language update.
+10.12.2023 14:48:44 [INFO] Searching for earphones
+10.12.2023 14:50:06 [INFO] WebDriver initialized.
+10.12.2023 14:50:15 [INFO] Main page opened.
+10.12.2023 14:50:16 [INFO] Language update.
+10.12.2023 14:50:18 [INFO] Searching for earphones
+10.12.2023 14:50:33 [INFO] Search completed.
+10.12.2023 14:50:39 [INFO] Price selected.
+10.12.2023 14:50:39 [INFO] Product found.
+10.12.2023 14:58:05 [INFO] WebDriver initialized.
+10.12.2023 14:58:11 [INFO] Main page opened.
+10.12.2023 14:58:13 [INFO] Currency update.
+10.12.2023 14:58:15 [INFO] Searching for джинсы
+10.12.2023 14:58:22 [INFO] Search completed.
+10.12.2023 14:59:17 [INFO] WebDriver initialized.
+10.12.2023 14:59:23 [INFO] Main page opened.
+10.12.2023 14:59:40 [INFO] Currency update.
+10.12.2023 14:59:46 [INFO] Searching for джинсы
+10.12.2023 14:59:52 [INFO] Search completed.
+10.12.2023 15:01:55 [INFO] WebDriver initialized.
+10.12.2023 15:01:57 [INFO] Main page opened.
+10.12.2023 15:02:10 [INFO] WebDriver initialized.
+10.12.2023 15:02:15 [INFO] Main page opened.
+10.12.2023 15:02:17 [INFO] Currency update.
+10.12.2023 15:02:19 [INFO] Searching for джинсы
+10.12.2023 15:02:38 [INFO] Search completed.
+10.12.2023 15:02:38 [INFO] Product selected.
+10.12.2023 15:02:38 [INFO] Product found.
+10.12.2023 15:03:53 [INFO] WebDriver initialized.
+10.12.2023 15:03:58 [INFO] Main page opened.
+10.12.2023 15:04:00 [INFO] Currency update.
+10.12.2023 15:04:02 [INFO] Searching for джинсы
+10.12.2023 15:04:09 [INFO] Search completed.
+10.12.2023 15:04:40 [INFO] WebDriver initialized.
+10.12.2023 15:04:46 [INFO] Main page opened.
+10.12.2023 15:04:48 [INFO] Currency update.
+10.12.2023 15:04:50 [INFO] Searching for джинсы
+10.12.2023 15:04:57 [INFO] Search completed.
+10.12.2023 15:04:58 [INFO] Product selected.
+10.12.2023 15:10:06 [INFO] WebDriver initialized.
+10.12.2023 15:10:12 [INFO] Main page opened.
+10.12.2023 15:10:43 [INFO] WebDriver initialized.
+10.12.2023 15:10:50 [INFO] Main page opened.
+10.12.2023 15:10:51 [INFO] Currency update.
+10.12.2023 15:10:53 [INFO] Searching for джинсы
+10.12.2023 15:11:03 [INFO] Search completed.
+10.12.2023 15:11:03 [INFO] Product selected.
+10.12.2023 15:12:13 [INFO] WebDriver initialized.
+10.12.2023 15:12:20 [INFO] Main page opened.
+10.12.2023 15:12:47 [INFO] WebDriver initialized.
+10.12.2023 15:12:53 [INFO] Main page opened.
+10.12.2023 15:12:55 [INFO] Currency update.
+10.12.2023 15:12:57 [INFO] Searching for джинсы
+10.12.2023 15:13:12 [INFO] Search completed.
+10.12.2023 15:13:12 [INFO] Product selected.
+10.12.2023 15:15:00 [INFO] WebDriver initialized.
+10.12.2023 15:15:07 [INFO] Main page opened.
+10.12.2023 15:15:08 [INFO] Currency update.
+10.12.2023 15:15:10 [INFO] Searching for джинсы
+10.12.2023 15:15:17 [INFO] Search completed.
+10.12.2023 15:15:18 [INFO] Product selected.
+10.12.2023 15:15:28 [INFO] Product add to basket
+10.12.2023 15:19:30 [INFO] WebDriver initialized.
+10.12.2023 15:20:13 [INFO] WebDriver initialized.
+10.12.2023 15:20:18 [INFO] Main page opened.
+10.12.2023 15:20:20 [INFO] Currency update.
+10.12.2023 15:20:22 [INFO] Searching for джинсы
+10.12.2023 15:20:30 [INFO] Search completed.
+10.12.2023 15:20:31 [INFO] Product selected.
+10.12.2023 15:20:36 [INFO] Product add to basket
+10.12.2023 15:22:00 [INFO] WebDriver initialized.
+10.12.2023 15:22:07 [INFO] Main page opened.
+10.12.2023 15:22:37 [INFO] WebDriver initialized.
+10.12.2023 15:22:44 [INFO] Main page opened.
+10.12.2023 15:22:45 [INFO] Currency update.
+10.12.2023 15:22:47 [INFO] Searching for джинсы
+10.12.2023 15:23:16 [INFO] Search completed.
+10.12.2023 15:23:16 [INFO] Product selected.
+10.12.2023 15:23:23 [INFO] Product add to basket
+10.12.2023 15:24:10 [INFO] WebDriver initialized.
+10.12.2023 15:24:12 [INFO] Main page opened.
+10.12.2023 15:24:54 [INFO] WebDriver initialized.
+10.12.2023 15:25:00 [INFO] Main page opened.
+10.12.2023 15:25:02 [INFO] Currency update.
+10.12.2023 15:25:04 [INFO] Searching for джинсы
+10.12.2023 15:25:12 [INFO] Search completed.
+10.12.2023 15:25:12 [INFO] Product selected.
+10.12.2023 15:25:40 [INFO] Product add to basket
+10.12.2023 15:27:20 [INFO] WebDriver initialized.
+10.12.2023 15:27:50 [INFO] Main page opened.
+10.12.2023 15:28:12 [INFO] WebDriver initialized.
+10.12.2023 15:28:19 [INFO] Main page opened.
+10.12.2023 15:28:21 [INFO] Currency update.
+10.12.2023 15:28:23 [INFO] Searching for джинсы
+10.12.2023 15:28:31 [INFO] Search completed.
+10.12.2023 15:28:32 [INFO] Product selected.
+10.12.2023 15:28:38 [INFO] Product add to basket
+10.12.2023 15:29:01 [INFO] Go to Basket.
+10.12.2023 15:29:12 [INFO] Product is not in basket.
+10.12.2023 15:30:42 [INFO] WebDriver initialized.
+10.12.2023 15:30:48 [INFO] Main page opened.
+10.12.2023 15:30:50 [INFO] Currency update.
+10.12.2023 15:30:52 [INFO] Searching for джинсы
+10.12.2023 15:31:00 [INFO] Search completed.
+10.12.2023 15:31:01 [INFO] Product selected.
+10.12.2023 15:31:08 [INFO] Product add to basket
+10.12.2023 15:31:14 [INFO] Go to Basket.
+10.12.2023 15:31:14 [INFO] Product is in basket.
+10.12.2023 15:40:42 [INFO] WebDriver initialized.
+10.12.2023 15:40:49 [INFO] Main page opened.
+10.12.2023 15:40:51 [INFO] Searching for вязаная игрушка
+10.12.2023 15:41:46 [INFO] WebDriver initialized.
+10.12.2023 15:41:53 [INFO] Main page opened.
+10.12.2023 15:41:55 [INFO] Searching for вязаная игрушка
+10.12.2023 15:41:56 [INFO] Search completed.
+10.12.2023 15:42:14 [INFO] WebDriver initialized.
+10.12.2023 15:42:21 [INFO] Main page opened.
+10.12.2023 15:42:23 [INFO] Searching for вязаная игрушка
+10.12.2023 15:42:29 [INFO] Search completed.
+10.12.2023 15:42:29 [INFO] Product selected.
+10.12.2023 15:42:40 [INFO] Product add to basket
+10.12.2023 15:42:46 [INFO] Go to Basket.
+10.12.2023 15:43:57 [INFO] WebDriver initialized.
+10.12.2023 15:44:08 [INFO] Main page opened.
+10.12.2023 15:44:10 [INFO] Searching for вязаная игрушка
+10.12.2023 15:44:20 [INFO] Search completed.
+10.12.2023 15:44:21 [INFO] Product selected.
+10.12.2023 15:44:35 [INFO] Product add to basket
+10.12.2023 15:44:39 [INFO] Go to Basket.
+10.12.2023 15:44:47 [INFO] Count products increase in basket
+10.12.2023 15:52:40 [INFO] WebDriver initialized.
+10.12.2023 15:52:50 [INFO] Main page opened.
+10.12.2023 15:52:52 [INFO] Searching for вязаная игрушка
+10.12.2023 15:52:57 [INFO] Search completed.
+10.12.2023 15:53:32 [INFO] WebDriver initialized.
+10.12.2023 15:53:40 [INFO] Main page opened.
+10.12.2023 15:53:42 [INFO] Searching for вязаная игрушка
+10.12.2023 15:53:49 [INFO] Search completed.
+10.12.2023 15:53:50 [INFO] Product selected.
+10.12.2023 15:54:02 [INFO] Product add to basket
+10.12.2023 15:54:08 [INFO] Go to Basket.
+10.12.2023 15:54:08 [INFO] Count products increase in basket
+10.12.2023 15:54:08 [INFO] Element contains the digit 2.
+10.12.2023 16:05:54 [INFO] WebDriver initialized.
+10.12.2023 16:06:00 [INFO] Main page opened.
+10.12.2023 16:06:07 [INFO] WebDriver initialized.
+10.12.2023 16:06:13 [INFO] Main page opened.
+10.12.2023 16:06:14 [INFO] Catalog clicked.
+10.12.2023 16:07:27 [INFO] WebDriver initialized.
+10.12.2023 16:07:29 [INFO] Main page opened.
+10.12.2023 16:07:49 [INFO] WebDriver initialized.
+10.12.2023 16:07:49 [INFO] Main page opened.
+10.12.2023 16:08:12 [INFO] WebDriver initialized.
+10.12.2023 16:08:27 [INFO] Main page opened.
+10.12.2023 16:08:28 [INFO] Catalog clicked.
+11.12.2023 10:16:32 [INFO] WebDriver initialized.
+11.12.2023 10:16:46 [INFO] Main page opened.
+11.12.2023 10:16:46 [INFO] Catalog clicked.
+11.12.2023 10:18:19 [INFO] WebDriver initialized.
+11.12.2023 10:18:34 [INFO] Main page opened.
+11.12.2023 10:18:35 [INFO] Catalog clicked.
+11.12.2023 10:19:46 [INFO] WebDriver initialized.
+11.12.2023 10:19:59 [INFO] Main page opened.
+11.12.2023 10:20:00 [INFO] Catalog clicked.
+11.12.2023 10:23:27 [INFO] WebDriver initialized.
+11.12.2023 10:23:41 [INFO] Main page opened.
+11.12.2023 10:23:41 [INFO] Catalog clicked.
+11.12.2023 10:23:50 [INFO] Product selected.
+11.12.2023 10:24:04 [INFO] Product add to basket
+11.12.2023 10:24:21 [INFO] Go to Basket.
+11.12.2023 10:24:21 [INFO] Product is in basket.
+11.12.2023 10:32:18 [INFO] WebDriver initialized.
+11.12.2023 10:32:28 [INFO] Main page opened.
+11.12.2023 10:32:30 [INFO] Searching for деревянный пистолет
+11.12.2023 10:34:24 [INFO] WebDriver initialized.
+11.12.2023 10:34:40 [INFO] Main page opened.
+11.12.2023 10:34:42 [INFO] Searching for деревянный пистолет
+11.12.2023 10:35:16 [INFO] WebDriver initialized.
+11.12.2023 10:35:21 [INFO] Main page opened.
+11.12.2023 10:35:24 [INFO] Searching for деревянный пистолет
+11.12.2023 10:35:31 [INFO] WebDriver initialized.
+11.12.2023 10:35:35 [INFO] Main page opened.
+11.12.2023 10:35:37 [INFO] Searching for деревянный пистолет
+11.12.2023 10:37:21 [INFO] WebDriver initialized.
+11.12.2023 10:37:33 [INFO] Main page opened.
+11.12.2023 10:37:35 [INFO] Searching for деревянный пистолет
+11.12.2023 10:37:55 [INFO] Search completed.
+11.12.2023 10:38:39 [INFO] WebDriver initialized.
+11.12.2023 10:38:54 [INFO] Main page opened.
+11.12.2023 10:38:56 [INFO] Searching for деревянный пистолет
+11.12.2023 10:39:04 [INFO] Search completed.
+11.12.2023 10:39:24 [INFO] Product selected.
+11.12.2023 10:39:28 [INFO] Div in the product.
+11.12.2023 10:40:14 [INFO] WebDriver initialized.
+11.12.2023 10:40:20 [INFO] Main page opened.
+11.12.2023 10:40:22 [INFO] Searching for деревянный пистолет
+11.12.2023 10:40:48 [INFO] WebDriver initialized.
+11.12.2023 10:40:48 [INFO] Main page opened.
+11.12.2023 10:40:50 [INFO] Searching for деревянный пистолет
+11.12.2023 10:41:32 [INFO] WebDriver initialized.
+11.12.2023 10:41:34 [INFO] Main page opened.
+11.12.2023 10:41:36 [INFO] Searching for деревянный пистолет
+11.12.2023 10:41:58 [INFO] Search completed.
+11.12.2023 10:41:59 [INFO] Product selected.
+11.12.2023 10:43:15 [INFO] WebDriver initialized.
+11.12.2023 10:44:12 [INFO] WebDriver initialized.
+11.12.2023 10:44:17 [INFO] Main page opened.
+11.12.2023 10:44:19 [INFO] Searching for деревянный пистолет
+11.12.2023 10:44:37 [INFO] WebDriver initialized.
+11.12.2023 10:44:38 [INFO] Main page opened.
+11.12.2023 10:44:40 [INFO] Searching for деревянный пистолет
+11.12.2023 10:44:56 [INFO] WebDriver initialized.
+11.12.2023 10:44:59 [INFO] Main page opened.
+11.12.2023 10:45:01 [INFO] Searching for деревянный пистолет
+11.12.2023 10:45:25 [INFO] WebDriver initialized.
+11.12.2023 10:45:25 [INFO] Main page opened.
+11.12.2023 10:45:28 [INFO] Searching for деревянный пистолет
+11.12.2023 11:29:55 [INFO] WebDriver initialized.
+11.12.2023 11:30:02 [INFO] Main page opened.
+11.12.2023 11:30:04 [INFO] Searching for деревянный пистолет
+11.12.2023 11:32:30 [INFO] WebDriver initialized.
+11.12.2023 11:32:39 [INFO] Main page opened.
+11.12.2023 11:32:41 [INFO] Searching for деревянный пистолет
+11.12.2023 11:32:43 [INFO] Search completed.
+11.12.2023 11:33:05 [INFO] WebDriver initialized.
+11.12.2023 11:33:11 [INFO] Main page opened.
+11.12.2023 11:33:13 [INFO] Searching for деревянный пистолет
+11.12.2023 11:33:19 [INFO] Search completed.
+11.12.2023 11:33:22 [INFO] Product selected.
+11.12.2023 11:33:27 [INFO] Div in the product.
+11.12.2023 11:34:34 [INFO] WebDriver initialized.
+11.12.2023 11:34:42 [INFO] Main page opened.
+11.12.2023 11:35:25 [INFO] WebDriver initialized.
+11.12.2023 11:35:26 [INFO] Main page opened.
+11.12.2023 11:36:01 [INFO] WebDriver initialized.
+11.12.2023 11:36:04 [INFO] Main page opened.
+11.12.2023 11:36:27 [INFO] WebDriver initialized.
+11.12.2023 11:36:32 [INFO] Main page opened.
+11.12.2023 11:36:53 [INFO] Product selected.
+11.12.2023 11:36:55 [INFO] Product add to basket
+11.12.2023 11:54:25 [INFO] WebDriver initialized.
+11.12.2023 11:54:28 [INFO] Main page opened.
+11.12.2023 11:54:34 [INFO] WebDriver initialized.
+11.12.2023 11:54:35 [INFO] Main page opened.
+11.12.2023 11:54:42 [INFO] WebDriver initialized.
+11.12.2023 11:54:43 [INFO] Main page opened.
+11.12.2023 11:54:49 [INFO] Product one selected.
+11.12.2023 11:55:09 [INFO] WebDriver initialized.
+11.12.2023 11:55:14 [INFO] Main page opened.
+11.12.2023 11:56:03 [INFO] WebDriver initialized.
+11.12.2023 11:56:03 [INFO] Main page opened.
+11.12.2023 12:25:30 [INFO] WebDriver initialized.
+11.12.2023 12:25:35 [INFO] Main page opened.
+11.12.2023 12:25:51 [INFO] WebDriver initialized.
+11.12.2023 12:25:55 [INFO] Main page opened.
+11.12.2023 12:26:07 [INFO] Product one selected.
+11.12.2023 12:26:08 [INFO] Product add to basket
+11.12.2023 12:26:08 [INFO] Product exit
+11.12.2023 12:26:08 [INFO] Product two selected.
+11.12.2023 12:26:09 [INFO] Product add to basket
+11.12.2023 12:26:09 [INFO] Product exit
+11.12.2023 12:26:10 [INFO] Product three selected.
+11.12.2023 12:26:11 [INFO] Product add to basket
+11.12.2023 12:26:11 [INFO] Product exit
+11.12.2023 12:26:11 [INFO] View the basket
+11.12.2023 12:26:18 [INFO] Product is in the basket.
+11.12.2023 12:26:50 [INFO] WebDriver initialized.
+11.12.2023 12:26:57 [INFO] Main page opened.
+11.12.2023 12:27:24 [INFO] WebDriver initialized.
+11.12.2023 12:27:27 [INFO] Main page opened.
+11.12.2023 12:28:03 [INFO] WebDriver initialized.
+11.12.2023 12:28:07 [INFO] Main page opened.
+11.12.2023 12:29:18 [INFO] WebDriver initialized.
+11.12.2023 12:29:22 [INFO] Main page opened.
+11.12.2023 12:29:54 [INFO] WebDriver initialized.
+11.12.2023 12:29:57 [INFO] Main page opened.
+11.12.2023 12:31:19 [INFO] WebDriver initialized.
+11.12.2023 12:31:31 [INFO] Main page opened.
+11.12.2023 12:31:42 [INFO] Product one selected.
+11.12.2023 12:31:43 [INFO] Product add to basket
+11.12.2023 12:31:43 [INFO] Product exit
+11.12.2023 12:31:44 [INFO] Product two selected.
+11.12.2023 12:31:45 [INFO] Product add to basket
+11.12.2023 12:31:45 [INFO] Product exit
+11.12.2023 12:31:46 [INFO] Product three selected.
+11.12.2023 12:31:47 [INFO] Product add to basket
+11.12.2023 12:31:47 [INFO] Product exit
+11.12.2023 17:32:37 [INFO] WebDriver initialized.
+11.12.2023 17:32:50 [INFO] Main page opened.
+11.12.2023 17:33:35 [INFO] WebDriver initialized.
+11.12.2023 17:33:41 [INFO] Main page opened.
+11.12.2023 17:33:49 [INFO] WebDriver initialized.
+11.12.2023 17:33:54 [INFO] Main page opened.
+11.12.2023 17:34:03 [INFO] WebDriver initialized.
+11.12.2023 17:34:07 [INFO] Main page opened.
+11.12.2023 17:42:00 [INFO] WebDriver initialized.
+11.12.2023 17:42:02 [INFO] Main page opened.
+11.12.2023 17:44:13 [INFO] WebDriver initialized.
+11.12.2023 17:44:31 [INFO] Main page opened.
+11.12.2023 17:45:23 [INFO] WebDriver initialized.
+11.12.2023 17:45:50 [INFO] Main page opened.
+11.12.2023 17:45:58 [INFO] Product one selected.
+11.12.2023 17:46:02 [INFO] Product add to basket
+11.12.2023 17:46:04 [INFO] Product exit
+11.12.2023 17:46:06 [INFO] Product two selected.
+11.12.2023 17:46:10 [INFO] Product add to basket
+11.12.2023 17:46:12 [INFO] Product exit
+11.12.2023 17:46:15 [INFO] Product three selected.
+11.12.2023 17:46:19 [INFO] Product add to basket
+11.12.2023 17:46:21 [INFO] Product exit
+11.12.2023 17:46:23 [INFO] View the basket
+11.12.2023 17:46:23 [INFO] Product is in the basket.
+11.12.2023 17:50:08 [INFO] WebDriver initialized.
+11.12.2023 17:50:16 [INFO] Main page opened.
+11.12.2023 18:04:29 [INFO] WebDriver initialized.
+11.12.2023 18:04:36 [INFO] Main page opened.
+11.12.2023 18:04:37 [INFO] Hot deals clicked.
+11.12.2023 18:05:45 [INFO] WebDriver initialized.
+11.12.2023 18:05:50 [INFO] Main page opened.
+11.12.2023 18:05:52 [INFO] Hot deals clicked.
+11.12.2023 18:05:54 [INFO] Beauty part clicked.
+11.12.2023 18:05:56 [INFO] Product selected.
+11.12.2023 18:06:05 [INFO] Product add to basket
+11.12.2023 18:06:11 [INFO] Go to Basket.
+11.12.2023 18:13:29 [INFO] WebDriver initialized.
+11.12.2023 18:13:34 [INFO] Main page opened.
+11.12.2023 18:13:42 [INFO] WebDriver initialized.
+11.12.2023 18:13:49 [INFO] Main page opened.
+11.12.2023 18:14:21 [INFO] WebDriver initialized.
+11.12.2023 18:14:22 [INFO] Main page opened.
+11.12.2023 18:14:30 [INFO] RecomendProducts clicked.
+11.12.2023 18:15:20 [INFO] WebDriver initialized.
+11.12.2023 18:15:28 [INFO] Main page opened.
+11.12.2023 18:15:28 [INFO] RecomendProducts clicked.
+11.12.2023 18:15:31 [INFO] RecomendSelectProducts clicked.
+11.12.2023 18:15:40 [INFO] Product add to basket
+11.12.2023 18:15:45 [INFO] Go to Basket.
+11.12.2023 18:15:45 [INFO] Product is in basket.
